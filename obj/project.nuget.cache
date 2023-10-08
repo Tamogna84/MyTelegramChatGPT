@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kbqju0sPqkuBpQqwkC2OMHcbR/N1HR3dvkj5PawDYVV2WFKpm5tNlHMUQ+0uxiH3Tp5djAV2R2qRW/zS/lxtIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\naumo\\source\\repos\\MyTelegramChatGPT\\MyTelegramChatGPT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naumo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\naumo\\.nuget\\packages\\openai.chatgpt\\2.8.0\\openai.chatgpt.2.8.0.nupkg.sha512",
+    "C:\\Users\\naumo\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
